@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Report Security Concern
+    url: mailto:support@autoelevate.com
+    about: If you are an AutoElevate customer and you would like to report a vulnerability or have a security concern regarding AutoElevate, please email support@autoelevate.com
