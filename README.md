@@ -10,7 +10,7 @@ This is the public roadmap for AutoElevate by CyberFOX's apps & services. Welcom
 
 AutoElevate would like to share more about what we're researching and working on to make it easier to view, and share feedback on upcoming improvements to our apps & services.
 
-This roadmap replaces the site found here: [ZenDesk Feature Requests »](https://support.autoelevate.com/hc/en-us/community/topics/115000367152-Feature-Requests)
+This roadmap replaces the site found here: [AE Community Feature Requests »](https://support.autoelevate.com/hc/en-us/community/topics/115000367152-Feature-Requests)
 
 All items found on that site will be migrated here and given a "Proposed" tag. **We will enable the ability to add new requests here soon.**
 
