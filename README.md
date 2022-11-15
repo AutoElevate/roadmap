@@ -6,6 +6,8 @@ This is the public roadmap for AutoElevate by CyberFOX's apps & services. Welcom
 
 [See the roadmap »](https://github.com/orgs/AutoElevate/projects/1)
 
+NOTE: Because roadmap items can change at any time, make your purchasing decisions based on currently available technology. 
+
 ## Introduction
 
 AutoElevate would like to share more about what we're researching and working on to make it easier to view, and share feedback on upcoming improvements to our apps & services.
