@@ -1,4 +1,4 @@
-<img src="https://github.com/autoelevate/roadmap/blob/main/img/logo.png" height="100" style="float: left;">
+<img src="https://github.com/autoelevate/roadmap/blob/master/img/logo.png" height="100" style="float: left;">
 
 ## AutoElevate by CyberFOX Roadmap
 
