@@ -33,7 +33,7 @@ A: We wanted to share more about what we're working on, but especially want to h
 
 **Q: Why are there no dates on your roadmap?**
 
-A: Our top priority is a focus on security, stability, and availability of our services, which means we need to remain flexible on some aspects of feature development and delivery timelines to ensure we can keep that level of trust in place without compromise. We're strongly committed to being transparent in this project, but we need to note that plans can and do change. As such items on the roadmap are not a firm guarantee that a feature will be released.
+A: Our top priority is a focus on security, stability, and availability of our services, which means we need to remain flexible on some aspects of feature development and delivery timelines to ensure we can keep that level of trust in place without compromise. We're strongly committed to being transparent in this project, but we need to note that plans can and do change. As such, items on the roadmap are not a firm guarantee that a feature will be released.
 
 **Q: Is everything on the roadmap?**
 
