@@ -6,6 +6,8 @@ This is the public roadmap for AutoElevate by CyberFOX's apps & services. Welcom
 
 [See the roadmap »](https://github.com/orgs/AutoElevate/projects/1)
 
+[See Customer Submitted Proposals »](https://github.com/AutoElevate/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3AProposal)
+
 NOTE: Because roadmap items can change at any time, make your purchasing decisions based on currently available technology. 
 
 ## Introduction
@@ -15,6 +17,8 @@ AutoElevate would like to share more about what we're researching and working on
 This roadmap replaces the site found here: [AE Community Feature Requests »](https://support.autoelevate.com/hc/en-us/community/topics/115000367152-Feature-Requests)
 
 All items found on that site will be migrated here and given a "Proposed" tag. **We will enable the ability to add new requests here soon.**
+
+[See Customer Submitted Proposals »](https://github.com/AutoElevate/roadmap/issues?q=is%3Aissue+is%3Aopen+label%3AProposal)
 
 ---
 
